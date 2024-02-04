@@ -11,5 +11,5 @@ It was also fun to tell more of a story through programming than I might get to 
 Packaging into JAR format was satisfying.
 
 Ideally I'd like to scale this game way bigger than it currently is. 
-Although it has a beginning and an end I feel there's a bigger story to tell here. 
-What would also be great is to incorporate some visual art.
+Although it has a beginning and an end I feel there's a larger story to tell here. 
+What would also be good is to incorporate some visual art.
